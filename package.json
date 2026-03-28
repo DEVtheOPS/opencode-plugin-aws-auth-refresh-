@@ -1,6 +1,6 @@
 {
   "name": "@devtheops/opencode-plugin-aws-auth-refresh",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "OpenCode plugin that auto-refreshes AWS credentials when auth errors are detected",
   "keywords": [
     "opencode",
